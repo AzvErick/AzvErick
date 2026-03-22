@@ -14,17 +14,13 @@
 <!-- SOBRE MIM -->
 ## 🧑‍💻 Sobre mim
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
-
-</div>
-
-
-<br clear="both"/>
+<p align="left">
+Olá! Me chamo <strong>Erick</strong>, tenho 20 anos e desde 2024 venho me dedicando ao universo da programação com o propósito de desenvolver soluções que resolvam problemas reais — tanto no âmbito pessoal quanto corporativo. Atualmente, estou em constante evolução para me tornar um desenvolvedor <strong>Fullstack</strong> com ênfase em <strong>Backend</strong>, priorizando sempre uma arquitetura limpa, sólida e escalável. Acredito que código bem escrito é a base de qualquer produto de qualidade. Fique à vontade para explorar meus projetos e, se tiver alguma dúvida ou quiser trocar uma ideia, é só entrar em contato — fico feliz em te ter por aqui!
+</p>
 
 ---
 
 <!-- TECH STACK -->
-<div align="center">
 
 ## 🛠️ Tech Stack
 
