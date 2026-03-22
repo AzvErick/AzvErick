@@ -18,14 +18,6 @@
 
 </div>
 
-```yaml
-nome: Erick Azevedo
-área: Fullstack Developer
-localização: Brasil 🇧🇷
-foco_atual: Construindo aplicações web robustas
-aprendendo: Sempre evoluindo nas stacks que uso
-objetivo: Escrever código limpo e escalável
-```
 
 <br clear="both"/>
 
@@ -59,46 +51,12 @@ objetivo: Escrever código limpo e escalável
 ### 🗄️ Banco de Dados & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-<br/>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<br/>
-
-<a href="https://github.com/AzvErick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzvErick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzvErick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Langs" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzvErick&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzvErick&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=c9d1d9&area=true&area_color=8B5CF6&hide_border=true" alt="Activity Graph" />
-
-<br/>
-
----
-
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzvErick/AzvErick/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzvErick/AzvErick/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AzvErick/AzvErick/output/github-snake-dark.svg" />
-</picture>
 
 <br/>
 
@@ -117,7 +75,7 @@ objetivo: Escrever código limpo e escalável
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="mailto:seuemail@email.com" target="_blank">
+<a href="mailto:azevedoerick45@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
